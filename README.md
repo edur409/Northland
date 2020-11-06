@@ -4,3 +4,5 @@ Jupyter Notebooks and grids on Northland
 
 ## Example of Point Cloud Visualization
 [Point Cloud Example](https://htmlpreview.github.io/?https://github.com/edur409/Northland/blob/gh-pages/Point_Cloud_map.html)
+
+[Point Cloud Example HTML](https://rawgit.com/edur409/Northland/blob/gh-pages/Point_Cloud_map.html)
