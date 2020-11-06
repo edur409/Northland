@@ -8,3 +8,5 @@ Jupyter Notebooks and grids on Northland
 [Point Cloud Example Geology](https://edur409.github.io/Northland/terrain_geology_layer.html)
 
 [Ipyleaflet Results](https://edur409.github.io/Northland/Cluster_Magnetics_SI0_WS11_Results.html)
+
+[Gravity Results Massifs](https://edur409.github.io/Northland/Gravity_SI-1_WS9_Results.html)
